@@ -1,0 +1,99 @@
+.card-text{
+    font-weight: bold;
+}
+h5{
+    font-style: italic;
+}
+#diplomes{
+    margin-top: none;
+}
+#langues{
+    font-weight: bold;
+    text-align: center;
+}
+
+/* version iphone X... */
+@media only screen and (max-width: 360px){
+
+.aPropos{
+  margin-left: none;
+}
+          /* text-align: right;
+      }
+  .logo {
+      width: 30%;
+      padding-top: 20px;
+      }
+  label {
+      display: block;
+      cursor: pointer;
+      }
+  .menu {
+      text-align: center;
+      width: 100%;
+      display: none;
+      }
+  .menu a {
+      display: block;
+      border-bottom: 1px solid black;
+      margin: 0;
+      }
+  #toggle:checked + .menu {
+      display: block;
+      }
+  .emy{
+    width: 90%;
+    text-align: center;
+  }
+  .containerTwo{
+    display: none;
+  }
+  h2{
+    font-size: 3em;
+    margin-left: 5%;
+  }
+  .tortilla{
+    width: 70%;
+    height: 300px;
+  }
+  .titre{
+      font-size: 1.3em;
+      margin-left: 5%;
+  }
+  .titre ol{
+    padding-bottom: 40%;
+  }
+} */
+/* version ipad*/
+@media only screen and (max-width: 768px) {
+/* .menu a {
+      margin-left: 10px;
+      font-size: 1.2em;
+      }
+.logo {
+      width: 15%;
+      }
+.presentation{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    /* separer les contener  */
+    /* justify-content: space-between;
+  }
+.recetteMateriel{
+    margin-left: 5%%;
+    height: 1200px;
+    font-size: 1.5em;
+    padding-bottom: 40%;
+  }
+.realisation{
+  height: 1200px;
+  font-size: 1.5em;
+  padding-bottom: 50%;
+  }
+}
+ */
+
+
+
+ */
